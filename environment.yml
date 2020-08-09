@@ -1,0 +1,24 @@
+name: notebook_drpendencies
+channels:
+  - conda-forge
+dependencies:
+  - ipyleaflet=0.13.3
+  - scipy
+  - bqplot
+  - IPython
+  - rasterio
+  - tqdm
+  - requests
+  - pillow
+  - flask
+  - branca
+  - geopandas
+  - netcdf4
+  - xarray
+  - numpy
+  - pandas
+  - dask
+  - BeautifulSoup
+  - geopy
+  - seaborn
+  - matplotlib 
