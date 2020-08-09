@@ -3,22 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - ipyleaflet=0.13.3
-  - scipy
-  - bqplot
+  - ipywidgets
   - IPython
-  - rasterio
-  - tqdm
   - requests
-  - pillow
-  - flask
-  - branca
-  - geopandas
-  - netcdf4
-  - xarray
   - numpy
   - pandas
-  - dask
   - bs4
   - geopy
   - seaborn
-  - matplotlib 
