@@ -1,4 +1,4 @@
-name: notebook_drpendencies
+name: notebook_dependencies
 channels:
   - conda-forge
 dependencies:
